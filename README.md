@@ -33,22 +33,9 @@ Também calcula o custo estimado com base em uma tarifa média de energia.
 ## ▶️ Como executar
 
 1. Instale o Python
-2. Baixe o projeto ou clone o repositório:
+2. Copie o codigo e cole no python app.py
+3. Execute o programa 
 
-git clone https://github.com/seu-usuario/consumo-energia.git
-
-
-3. Acesse a pasta:
-
-cd consumo-energia
-
-
-4. Execute o programa:
-
-python app.py
-
-
----
 
 ## 💡 Exemplo de uso
 
@@ -63,7 +50,7 @@ Consumo estimado: 45.00 kWh/mês
 Custo estimado: R$ 33.75/mês
 
 
----
+
 
 ## 🚀 Tecnologias utilizadas
 <p align="center">
