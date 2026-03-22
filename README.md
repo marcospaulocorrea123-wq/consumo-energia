@@ -1,7 +1,9 @@
 # ⚡ Calculadora de Consumo de Energia
 
-![Status](https://img.shields.io/badge/Status-Concluído-green)
-![License](https://img.shields.io/badge/Licença-Livre-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)
+![Energia](https://img.shields.io/badge/Energia-Elétrica-yellow?style=for-the-badge&logo=lightning)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
 ## 📌 Sobre o Projeto
 
