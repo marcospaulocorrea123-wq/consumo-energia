@@ -54,11 +54,17 @@ Custo estimado: R$ 33.75/mês
 
 ## 🚀 Tecnologias utilizadas
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65"/>
+  <img src="https://img.icons8.com/color/96/000000/lightning-bolt.png" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Energia-Elétrica-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 
