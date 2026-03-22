@@ -71,5 +71,5 @@ Custo estimado: R$ 33.75/mês
 ---
 
 ##  Autor
-
+![Autor](https://img.shields.io/badge/Autor-Vin%20Diesel-000000?style=for-the-badge&logo=github&logoColor=white)
 Marcos Correa
