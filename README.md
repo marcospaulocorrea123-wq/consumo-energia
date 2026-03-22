@@ -1,6 +1,6 @@
 # ⚡ Calculadora de Consumo de Energia
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![License](https://img.shields.io/badge/Licença-Livre-lightgrey)
 
